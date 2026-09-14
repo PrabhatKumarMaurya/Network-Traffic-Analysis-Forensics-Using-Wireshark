@@ -1,7 +1,7 @@
 # Network Traffic Analysis & Forensics Using Wireshark
 
 **Timeline:** Apr 2024 – May 2024  
-**Author:** Sayyed Amaan  
+**Author:** Prabhat Kumar Maurya  
 
 ## 📌 Overview
 This project focuses on **network traffic analysis & forensics** by capturing, inspecting, and analyzing traffic using **Wireshark** and **tcpdump**.  
